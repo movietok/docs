@@ -4,11 +4,10 @@ Welcome to the MovieTok project documentation repository. This repository contai
 
 ## 📋 Table of Contents
 
-- [About MovieTok](#about-movietok)
-- [Documentation Resources](#documentation-resources)
-- [Project Materials](#project-materials)
-- [License](#license)
-
+- [About MovieTok]
+- [Documentation Resources]
+- [Project Materials]
+- [License]
 ## 🎯 About MovieTok
 
 MovieTok is a social movie platform that brings movie enthusiasts together. Users can discover movies, create watchlists, join groups, and share their movie experiences with friends.
