@@ -24,13 +24,11 @@ Complete design system, user interface mockups, and user experience flows:
 
 🔗 **[View Figma Design](https://www.figma.com/design/VWFJB1JoGzFQ0AYPWaehXB/MovieTok_UIUX?node-id=76-2&p=f&t=Vg05zeNb8i2zvZ5k-0)**
 
-## 📁 Project Materials
+### Database ER Diagram
+Entity-Relationship diagram showing the database structure and relationships:
 
-This repository contains:
+![Database ER Diagram](vuokaavio.png)
 
-- **Database Schema** (`db.sql`) - Complete database structure and relationships
-- **Project Timeline** (`Työtuntilista Web-sovellusprojekti Ryhmä 3.pdf`) - Work hours and project timeline documentation
-- **License** (`LICENSE`) - MIT License terms
 
 ## 📄 License
 
